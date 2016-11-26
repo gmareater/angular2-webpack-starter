@@ -1,5 +1,6 @@
 /*
  * Angular bootstraping
+ *testy 1111
  */
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 import { decorateModuleRef } from './app/environment';
